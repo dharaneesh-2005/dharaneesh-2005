@@ -96,11 +96,12 @@ DevOps practices and infrastructure automation using modern tools.
 
 ---
 
-### 📱 [Call Reminder App](https://github.com/dharaneesh-2005/call_remainder)
-*Productivity Application*
+### 📞 [Student Fee Payment Bot](https://github.com/dharaneesh-2005/call_remainder)
+*Automated Fee Reminder System with AI Support*
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=openai&logoColor=white)
 
-A utility application to help manage and track important calls.
+Intelligent bot that automatically calls students with pending fees and provides AI-powered customer support for fee-related queries.
 
 ---
 
@@ -112,11 +113,12 @@ Advanced media processing tool for handling encrypted HLS streams.
 
 ---
 
-### 📡 [BMW LoRa Project](https://github.com/dharaneesh-2005/bmw-lora)
-*IoT & LoRa Communication*
+### 🤖 [BMW LoRa Project](https://github.com/dharaneesh-2005/bmw-lora)
+*AI Model Training for BMW Image Generation*
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=openai&logoColor=white)
 
-IoT project implementing LoRa communication protocols.
+AI model trained using LoRA (Low-Rank Adaptation) for generating high-quality BMW car images with fine-tuned control.
 
 </div>
 
@@ -176,8 +178,7 @@ IoT project implementing LoRa communication protocols.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dharaneesh-2005)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharaneesh-sk)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dharaneesh_sk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharaneeshsk/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharaneesh.sk@example.com)
 
 </div>
