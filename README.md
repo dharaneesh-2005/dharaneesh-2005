@@ -21,8 +21,6 @@
 
 ## 🚀 About Me
 
-<div align="center">
-
 ```typescript
 const dharaneesh = {
   pronouns: "he" | "him",
@@ -35,8 +33,6 @@ const dharaneesh = {
   motto: "Code with purpose, deploy with confidence"
 };
 ```
-
-</div>
 
 <div align="center">
 
