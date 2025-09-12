@@ -20,6 +20,8 @@
 
 ## 🚀 About Me
 
+<div align="center">
+
 ```typescript
 const dharaneesh = {
   pronouns: "he" | "him",
@@ -34,6 +36,8 @@ const dharaneesh = {
 ```
 
 ### 🌟 **"Innovation distinguishes between a leader and a follower"** - Steve Jobs
+
+</div>
 
 ---
 
