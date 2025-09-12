@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi there, I'm Dharaneesh S K
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dharaneesh%20S%20K&fontSize=60&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20DevOps%20Engineer&descAlignY=65&descAlign=50&fontColor=ffffff" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;DevOps+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+Building+the+Future+with+Code;🤖+AI+%26+Machine+Learning+Expert;⚡+Full+Stack+Development+Wizard;🔧+DevOps+%26+Cloud+Architecture;💡+Open+Source+Contributor;🌟+Always+Learning+New+Technologies" alt="Typing SVG" />
 
 </div>
 
@@ -10,15 +10,18 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=dharaneesh-2005&color=00FF88&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/dharaneesh-2005?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/dharaneesh-2005?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=dharaneesh-2005&color=00D9FF&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/dharaneesh-2005?style=for-the-badge&logo=github&color=00D9FF&labelColor=000000)
+![GitHub User's stars](https://img.shields.io/github/stars/dharaneesh-2005?style=for-the-badge&logo=github&color=00D9FF&labelColor=000000)
+![GitHub User's commits](https://img.shields.io/github/commit-activity/m/dharaneesh-2005?style=for-the-badge&logo=github&color=00D9FF&labelColor=000000)
 
 </div>
 
 ---
 
 ## 🚀 About Me
+
+<div align="center">
 
 ```typescript
 const dharaneesh = {
@@ -27,9 +30,19 @@ const dharaneesh = {
   tools: ["Docker", "Kubernetes", "AWS", "Git", "Linux"],
   architecture: ["Microservices", "REST APIs", "DevOps", "Cloud Native"],
   currentFocus: "Full Stack Development & DevOps",
-  funFact: "I turn coffee into code and bugs into features! ☕️→💻"
+  funFact: "I turn coffee into code and bugs into features! ☕️→💻",
+  passion: "Building innovative solutions that make a difference",
+  motto: "Code with purpose, deploy with confidence"
 };
 ```
+
+</div>
+
+<div align="center">
+
+### 🌟 **"Innovation distinguishes between a leader and a follower"** - Steve Jobs
+
+</div>
 
 ---
 
@@ -38,28 +51,28 @@ const dharaneesh = {
 <div align="center">
 
 ### 💻 Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
-![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=000000&labelColor=000000)
-![PHP](https://img.shields.io/badge/PHP-FF69B4?style=for-the-badge&logo=php&logoColor=white&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-00FF88?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=000000)
-![HTML5](https://img.shields.io/badge/HTML5-FF4500?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
-![CSS3](https://img.shields.io/badge/CSS3-00BFFF?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000&logoWidth=20)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000&logoWidth=20)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000000&logoWidth=20)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=000000&logoWidth=20)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000&logoWidth=20)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000&logoWidth=20)
 
 ### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-00FF88?style=for-the-badge&logo=react&logoColor=000000&labelColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-FFD700?style=for-the-badge&logo=node.js&logoColor=000000&labelColor=000000)
-![Express.js](https://img.shields.io/badge/Express.js-FF69B4?style=for-the-badge&logo=express&logoColor=white&labelColor=000000)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000&labelColor=000000&logoWidth=20)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000&logoWidth=20)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000&logoWidth=20)
 
 ### 🗄️ Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00BFFF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
-![MongoDB](https://img.shields.io/badge/MongoDB-FFD700?style=for-the-badge&logo=mongodb&logoColor=000000&labelColor=000000)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF4500?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000&logoWidth=20)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000&logoWidth=20)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000&logoWidth=20)
 
 ### 🔧 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-00FF88?style=for-the-badge&logo=docker&logoColor=000000&labelColor=000000)
-![Kubernetes](https://img.shields.io/badge/kubernetes-FFD700?style=for-the-badge&logo=kubernetes&logoColor=000000&labelColor=000000)
-![Git](https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
-![Linux](https://img.shields.io/badge/Linux-00BFFF?style=for-the-badge&logo=linux&logoColor=white&labelColor=000000)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000&logoWidth=20)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000&logoWidth=20)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000&logoWidth=20)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000&labelColor=000000&logoWidth=20)
 
 </div>
 
@@ -128,20 +141,20 @@ AI model trained using LoRA (Low-Rank Adaptation) for generating high-quality BM
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dharaneesh-2005&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=000000&title_color=00FF88&text_color=FFFFFF&icon_color=00FF88" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharaneesh-2005&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00FF88&text_color=FFFFFF" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dharaneesh-2005&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&ring_color=00D9FF&border_color=00D9FF" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharaneesh-2005&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=00D9FF" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharaneesh-2005&theme=radical&hide_border=true&background=000000&stroke=00FF88&ring=00FF88&fire=00FF88&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF88&sideLabels=00FF88&dates=FFFFFF" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharaneesh-2005&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharaneesh-2005&theme=react-dark&hide_border=true&bg_color=000000&color=00FF88&line=00FF88&point=FFFFFF&area=true&area_color=00FF88" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharaneesh-2005&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&title_color=00D9FF" alt="Activity Graph" />
 
 </div>
 
@@ -151,7 +164,7 @@ AI model trained using LoRA (Low-Rank Adaptation) for generating high-quality BM
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dharaneesh-2005&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=dharaneesh-2005&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
@@ -161,7 +174,7 @@ AI model trained using LoRA (Low-Rank Adaptation) for generating high-quality BM
 
 <div align="center">
 
-![Focusing](https://img.shields.io/badge/Status-Focusing-00FF88?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)
+![Focusing](https://img.shields.io/badge/Status-Focusing-00D9FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)
 
 **Currently working on:** Full-Stack Development & DevOps Automation
 
@@ -192,7 +205,7 @@ AI model trained using LoRA (Low-Rank Adaptation) for generating high-quality BM
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:FFD700&height=100&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer" />
 
 **⭐ From [dharaneesh-2005](https://github.com/dharaneesh-2005)**
 
