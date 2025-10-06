@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dharaneesh%20S%20K&fontSize=60&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20DevOps%20Engineer&descAlignY=65&descAlign=50&fontColor=ffffff" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+Building+the+Future+with+Code;🤖+AI+%26+Machine+Learning+Expert;⚡+Full+Stack+Development+Wizard;🔧+DevOps+%26+Cloud+Architecture;💡+Open+Source+Contributor;🌟+Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+Future+with+Code;AI+%26+Machine+Learning+Expert;Full+Stack+Development+Wizard;DevOps+%26+Cloud+Architecture;Open+Source+Contributor;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 <div align="center">
 
@@ -45,7 +45,7 @@ const dharaneesh = {
 
 <div align="center">
 
-### 💻 Languages
+###  Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -53,17 +53,17 @@ const dharaneesh = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🚀 Frameworks & Libraries
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-### 🗄️ Databases & Cloud
+### Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 🔧 DevOps & Tools
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -73,11 +73,11 @@ const dharaneesh = {
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
 <div align="center">
 
-### 🌟 [Regalyn](https://github.com/dharaneesh-2005/regalyn)
+### [Regalyn](https://github.com/dharaneesh-2005/regalyn)
 *Full-Stack E-commerce Platform*
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -86,7 +86,7 @@ A comprehensive e-commerce solution with modern UI/UX and robust backend archite
 
 ---
 
-### 🎮 [Tetris Game](https://github.com/dharaneesh-2005/tetris-main)
+### [Tetris Game](https://github.com/dharaneesh-2005/tetris-main)
 *Classic Game Implementation*
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -96,7 +96,7 @@ A fully functional Tetris game built with vanilla web technologies.
 
 ---
 
-### 🔧 [DevOps Implementation](https://github.com/dharaneesh-2005/devops-imp)
+### [DevOps Implementation](https://github.com/dharaneesh-2005/devops-imp)
 *Infrastructure as Code*
 ![HCL](https://img.shields.io/badge/HCL-623CE4?style=flat-square&logo=terraform&logoColor=white)
 
@@ -104,7 +104,7 @@ DevOps practices and infrastructure automation using modern tools.
 
 ---
 
-### 📞 [Student Fee Payment Bot](https://github.com/dharaneesh-2005/call_remainder)
+### [Student Fee Payment Bot](https://github.com/dharaneesh-2005/call_remainder)
 *Automated Fee Reminder System with AI Support*
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=openai&logoColor=white)
@@ -113,7 +113,7 @@ Intelligent bot that automatically calls students with pending fees and provides
 
 ---
 
-### 🎬 [HLS Encrypted Downloader](https://github.com/dharaneesh-2005/gfg---HLS-encrypted-downloader)
+### [HLS Encrypted Downloader](https://github.com/dharaneesh-2005/gfg---HLS-encrypted-downloader)
 *Media Processing Tool*
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
@@ -121,7 +121,7 @@ Advanced media processing tool for handling encrypted HLS streams.
 
 ---
 
-### 🤖 [BMW LoRa Project](https://github.com/dharaneesh-2005/bmw-lora)
+### [BMW LoRa Project](https://github.com/dharaneesh-2005/bmw-lora)
 *AI Model Training for BMW Image Generation*
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=openai&logoColor=white)
@@ -132,7 +132,7 @@ AI model trained using LoRA (Low-Rank Adaptation) for generating high-quality BM
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -155,7 +155,7 @@ AI model trained using LoRA (Low-Rank Adaptation) for generating high-quality BM
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -165,7 +165,7 @@ AI model trained using LoRA (Low-Rank Adaptation) for generating high-quality BM
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 <div align="center">
 
@@ -181,7 +181,7 @@ AI model trained using LoRA (Low-Rank Adaptation) for generating high-quality BM
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
@@ -195,7 +195,7 @@ AI model trained using LoRA (Low-Rank Adaptation) for generating high-quality BM
 
 <div align="center">
 
-### 💡 Fun Fact
+### Fun Fact
 *"The best way to predict the future is to code it!"* 🚀
 
 ---
