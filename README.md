@@ -36,38 +36,45 @@ const dharaneesh = {
 ```
 
 
-</div>
-
----
-
-## 🛠️ Tech Stack & Tools
-
 <div align="center">
 
-###  Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🧰 Tech Stack & Tools
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+<table>
+<tr>
+<td align="left" width="50%">
 
-### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 🖥️ Languages
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### ⚙️ Frameworks & Libraries
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 
+</td>
+
+<td align="right" width="50%">
+
+### ☁️ Databases & Cloud
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+### 🧩 DevOps & Tools
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -76,8 +83,14 @@ const dharaneesh = {
 
 <div align="center">
 
+## 🚀 Projects
+
+<table>
+<tr>
+<td align="left" width="50%" valign="top">
+
 ### [Regalyn](https://github.com/dharaneesh-2005/regalyn)
-*Full-Stack E-commerce Platform*
+*Full-Stack E-commerce Platform*  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
@@ -86,7 +99,7 @@ A comprehensive e-commerce solution with modern UI/UX and robust backend archite
 ---
 
 ### [Tetris Game](https://github.com/dharaneesh-2005/tetris-main)
-*Classic Game Implementation*
+*Classic Game Implementation*  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -96,15 +109,17 @@ A fully functional Tetris game built with vanilla web technologies.
 ---
 
 ### [DevOps Implementation](https://github.com/dharaneesh-2005/devops-imp)
-*Infrastructure as Code*
+*Infrastructure as Code*  
 ![HCL](https://img.shields.io/badge/HCL-623CE4?style=flat-square&logo=terraform&logoColor=white)
 
 DevOps practices and infrastructure automation using modern tools.
 
----
+</td>
+
+<td align="left" width="50%" valign="top">
 
 ### [Student Fee Payment Bot](https://github.com/dharaneesh-2005/call_remainder)
-*Automated Fee Reminder System with AI Support*
+*Automated Fee Reminder System with AI Support*  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=openai&logoColor=white)
 
@@ -113,7 +128,7 @@ Intelligent bot that automatically calls students with pending fees and provides
 ---
 
 ### [HLS Encrypted Downloader](https://github.com/dharaneesh-2005/gfg---HLS-encrypted-downloader)
-*Media Processing Tool*
+*Media Processing Tool*  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 Advanced media processing tool for handling encrypted HLS streams.
@@ -121,13 +136,18 @@ Advanced media processing tool for handling encrypted HLS streams.
 ---
 
 ### [BMW LoRa Project](https://github.com/dharaneesh-2005/bmw-lora)
-*AI Model Training for BMW Image Generation*
+*AI Model Training for BMW Image Generation*  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=openai&logoColor=white)
 
 AI model trained using LoRA (Low-Rank Adaptation) for generating high-quality BMW car images with fine-tuned control.
 
+</td>
+</tr>
+</table>
+
 </div>
+
 
 ---
 
